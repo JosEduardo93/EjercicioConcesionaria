@@ -1,0 +1,46 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Idea
+src/.idea
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Maven
+target
+
+# Build
+out
+build
+bin
+libs
+
+# Otros
+*.log
+*.swp
+*.bak
+
+_windows
+colors.scheme.xml
+ide-features-trainer.xml
+scala.xml
+vcs.xml
+codestyles
