@@ -12,8 +12,8 @@ Vehículo más caro: Peugeot 208
 Vehículo más barato: Honda Titan
 Vehículo que contiene en el modelo la letra ‘Y’: Yamaha YBR $80.500,50</pre>
 
-Ejercicio extra (si lo haces sumas puntos)
-=============================
+###Ejercicio extra (si lo haces sumas puntos)
+
 Vehículos ordenados por precio de mayor a menor:
 
 <pre>Peugeot 208
